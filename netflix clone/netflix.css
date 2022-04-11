@@ -1,0 +1,74 @@
+body,html{
+    height: 100%;
+}
+.bg{
+    background-image: url(./new\ nf.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo ,img{
+    margin-left: 23px;
+    margin-top: 10px;
+    position: absolute;
+}
+.Select{
+    
+    margin-left: 80%;
+    margin-top: 25px;
+    position: absolute;
+    background: rgba(0,0,0,.4); 
+    border: 1px solid #aaa; 
+    color: #fff; 
+    font-size: .875rem;
+    padding: 10px 3px; 
+    padding-left: 9px;
+}
+    
+.Btn{
+    margin-left: 88%;
+    margin-top: 25px;
+    position: absolute;
+    background-color: #e50914; 
+    color: #fff; 
+    /* border: #000000 solid 10px;  */
+    padding: 10px 9px;
+    font-weight: 400;
+    font-size: 1rem;    
+    line-height: normal; 
+    border-radius: 3px;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+
+    
+}
+.maintitle{
+    position: absolute;
+    height: 300px;
+    width: 70%;
+    color: white;
+    /* background-color: blue; */
+    margin-left: 180px;
+    margin-top: 180px;
+    text-align: center;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.Search{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 330px;
+    width: 420px; 
+    height: 50px;
+
+}
+.Redbtn{
+    position: absolute; 
+    margin-top: 450px;
+    margin-left: 758px; 
+    color: #fff; 
+    background-color: #e50914; 
+    font-size: 1.5rem; 
+    /* border: #e50914 solid 1px;  */
+    padding: 12px 2em;
+}
